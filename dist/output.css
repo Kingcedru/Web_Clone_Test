@@ -576,6 +576,43 @@ video {
   float: left;
 }
 
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.mx-12 {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.mx-14 {
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+}
+
+.ml-56 {
+  margin-left: 14rem;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.ml-60 {
+  margin-left: 15rem;
+}
+
 .flex {
   display: flex;
 }
@@ -586,6 +623,10 @@ video {
 
 .w-24 {
   width: 6rem;
+}
+
+.min-w-full {
+  min-width: 100%;
 }
 
 .justify-end {
