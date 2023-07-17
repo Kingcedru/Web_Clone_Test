@@ -636,6 +636,86 @@ video {
   top: 390px;
 }
 
+.top-\[490px\] {
+  top: 490px;
+}
+
+.left-14 {
+  left: 3.5rem;
+}
+
+.left-56 {
+  left: 14rem;
+}
+
+.top-\[0px\] {
+  top: 0px;
+}
+
+.top-\[-20px\] {
+  top: -20px;
+}
+
+.top-\[-200px\] {
+  top: -200px;
+}
+
+.top-\[-100px\] {
+  top: -100px;
+}
+
+.top-\[-15px\] {
+  top: -15px;
+}
+
+.top-\[-160px\] {
+  top: -160px;
+}
+
+.top-\[-150px\] {
+  top: -150px;
+}
+
+.left-80 {
+  left: 20rem;
+}
+
+.top-10 {
+  top: 2.5rem;
+}
+
+.top-16 {
+  top: 4rem;
+}
+
+.top-28 {
+  top: 7rem;
+}
+
+.bottom-0 {
+  bottom: 0px;
+}
+
+.-top-0 {
+  top: -0px;
+}
+
+.top-\[500px\] {
+  top: 500px;
+}
+
+.top-\[480px\] {
+  top: 480px;
+}
+
+.top-\[520px\] {
+  top: 520px;
+}
+
+.top-\[510px\] {
+  top: 510px;
+}
+
 .m-20 {
   margin: 5rem;
 }
@@ -700,12 +780,84 @@ video {
   margin-left: 3.5rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.mt-9 {
+  margin-top: 2.25rem;
+}
+
+.mt-14 {
+  margin-top: 3.5rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.mt-16 {
+  margin-top: 4rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-12 {
+  margin-top: 3rem;
+}
+
 .flex {
   display: flex;
 }
 
 .grid {
   display: grid;
+}
+
+.h-56 {
+  height: 14rem;
+}
+
+.h-64 {
+  height: 16rem;
+}
+
+.h-80 {
+  height: 20rem;
+}
+
+.h-\[340px\] {
+  height: 340px;
+}
+
+.h-\[330px\] {
+  height: 330px;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-\[310px\] {
+  height: 310px;
+}
+
+.h-\[280px\] {
+  height: 280px;
+}
+
+.h-\[282px\] {
+  height: 282px;
 }
 
 .w-24 {
@@ -756,6 +908,26 @@ video {
   width: 530px;
 }
 
+.w-\[230px\] {
+  width: 230px;
+}
+
+.w-\[330px\] {
+  width: 330px;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[580px\] {
+  width: 580px;
+}
+
+.w-\[585px\] {
+  width: 585px;
+}
+
 .min-w-full {
   min-width: 100%;
 }
@@ -773,6 +945,10 @@ video {
 
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr));
 }
 
 .justify-end {
@@ -793,6 +969,10 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
 }
 
 .justify-self-end {
@@ -901,6 +1081,26 @@ video {
   padding-bottom: 5rem;
 }
 
+.px-14 {
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.py-7 {
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+}
+
 .pl-10 {
   padding-left: 2.5rem;
 }
@@ -947,6 +1147,54 @@ video {
 
 .pl-\[75\%\] {
   padding-left: 75%;
+}
+
+.pb-20 {
+  padding-bottom: 5rem;
+}
+
+.pl-\[45\%\] {
+  padding-left: 45%;
+}
+
+.pl-\[\%\] {
+  padding-left: %;
+}
+
+.pl-\[10\%\] {
+  padding-left: 10%;
+}
+
+.pl-\[20\%\] {
+  padding-left: 20%;
+}
+
+.pt-6 {
+  padding-top: 1.5rem;
+}
+
+.pl-\[25\%\] {
+  padding-left: 25%;
+}
+
+.pl-\[35\%\] {
+  padding-left: 35%;
+}
+
+.pl-\[55\%\] {
+  padding-left: 55%;
+}
+
+.pl-5 {
+  padding-left: 1.25rem;
+}
+
+.pl-\[15\%\] {
+  padding-left: 15%;
+}
+
+.pl-4 {
+  padding-left: 1rem;
 }
 
 .text-center {
